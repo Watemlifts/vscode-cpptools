@@ -1730,7 +1730,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-tslint": "^8.1.4",
     "gulp-typescript": "^5.0.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "parse5": "^5.1.0",
     "parse5-traverse": "^1.0.3",
     "ts-loader": "^6.0.4",
